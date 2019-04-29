@@ -3,7 +3,7 @@ package com.company.port;
 import com.company.base.AbstractSerialPortProcessor;
 
 /**
- * @Description 蓝牙串口串口
+ * @Description 蓝牙串口
  * @Author fengzt
  * @Date 2019/4/23
  * @Version 1.0
