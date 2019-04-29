@@ -1,0 +1,1 @@
+将rxtxParallel.dll和rxtxSerial.dll两个文件放在%JAVA_HOME%/jre/bin目录下,这样该包才能被正常的加载和调用
